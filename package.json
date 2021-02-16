@@ -1,0 +1,16 @@
+{
+  "name": "mqttjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "broker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iamvinayvk",
+  "license": "ISC",
+  "dependencies": {
+    "aedes": "^0.44.2",
+    "mosca": "^2.8.3",
+    "mqtt": "^4.2.6"
+  }
+}
